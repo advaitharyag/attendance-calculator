@@ -19,7 +19,7 @@ Easily calculate your **current attendance**, see how many classes you can bunk,
 🔗 [Check it out on GitHub Pages](#) *(Replace with your link if hosted)*  
 
 ## 📷 Screenshot  
-![Attendance Calculator Preview](#) *(Add an image link if needed)*  
+![Attendance Calculator Preview](https://imgur.com/a/kvdqB2w) *(Add an image link if needed)*  
 
 ## 📩 Contributing  
 Feel free to **fork this repository** and improve the project! PRs are welcome.  
