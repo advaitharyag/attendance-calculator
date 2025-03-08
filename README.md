@@ -16,7 +16,7 @@ Easily calculate your **current attendance**, see how many classes you can bunk,
 4. Get instant results on whether you can bunk or need to attend more classes!  
 
 ## 🌐 Live Demo  
-🔗 [Check it out on GitHub Pages](https://advaitharyag.github.io/attendance-calculator/)
+🔗 [Check it out](https://bunkit.netlify.app/)
 
 ## 📷 Screenshot  
 ![Attendance Calculator Preview](screenshot.png) 
